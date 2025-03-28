@@ -16,8 +16,8 @@ A função `my_printf` deve suportar as seguintes especificações de formato:
 ## Como compilar e testar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/ft_printf.git
-   cd ft_printf
+   git clone https://github.com/Nathan-N7/printf.git
+   cd printf
    ```
 2. Compile a biblioteca:
    ```sh
