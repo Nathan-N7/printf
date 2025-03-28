@@ -4,7 +4,7 @@
 O projeto **my_printf** é uma recriação da função `printf` da biblioteca padrão do C. O objetivo é entender melhor como funciona a manipulação de strings, argumentos variáveis e saída formatada, implementando nossa própria versão da função sem utilizar `printf` ou funções similares.
 
 ## Funcionalidades
-A função `ft_printf` deve suportar as seguintes especificações de formato:
+A função `my_printf` deve suportar as seguintes especificações de formato:
 - `%c` → Imprime um caractere
 - `%s` → Imprime uma string
 - `%p` → Imprime um ponteiro no formato hexadecimal
